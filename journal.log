@@ -1,0 +1,12 @@
+POST /shorturls → 201 in 3ms
+GET /testing → 302 in 4ms
+GET /testing → 302 in 1ms
+POST /shorturls → 201 in 1ms
+GET /fest → 302 in 2ms
+POST /shorturls → 201 in 1ms
+GET /search → 302 in 1ms
+GET /search → 302 in 1ms
+GET /yt → 404 in 1ms
+GET /favicon.ico → 404 in 2ms
+POST /shorturls → 201 in 1ms
+GET /yt → 302 in 1ms

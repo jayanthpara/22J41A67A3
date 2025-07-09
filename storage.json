@@ -1,0 +1,70 @@
+{
+  "trailMap": [
+    {
+      "code": "testing",
+      "url": "https://jayanthpara.vercel.app",
+      "created": "2025-07-09T05:59:59.922Z",
+      "expiry": "2025-07-09T06:09:59.922Z",
+      "total": 2
+    },
+    {
+      "code": "fest",
+      "url": "https://festverse.vercel.app",
+      "created": "2025-07-09T06:00:46.647Z",
+      "expiry": "2025-07-09T06:10:46.647Z",
+      "total": 1
+    },
+    {
+      "code": "search",
+      "url": "https://google.com",
+      "created": "2025-07-09T06:01:25.842Z",
+      "expiry": "2025-07-09T06:11:25.842Z",
+      "total": 2
+    },
+    {
+      "code": "yt",
+      "url": "https://youtube.com",
+      "created": "2025-07-09T06:01:59.168Z",
+      "expiry": "2025-07-09T06:11:59.168Z",
+      "total": 1
+    }
+  ],
+  "history": [
+    {
+      "code": "testing",
+      "time": "2025-07-09T06:00:04.555Z",
+      "source": "unknown",
+      "place": "::ffff:127.0.0.1"
+    },
+    {
+      "code": "testing",
+      "time": "2025-07-09T06:00:25.822Z",
+      "source": "unknown",
+      "place": "::ffff:127.0.0.1"
+    },
+    {
+      "code": "fest",
+      "time": "2025-07-09T06:00:54.113Z",
+      "source": "unknown",
+      "place": "::ffff:127.0.0.1"
+    },
+    {
+      "code": "search",
+      "time": "2025-07-09T06:01:34.540Z",
+      "source": "unknown",
+      "place": "::ffff:127.0.0.1"
+    },
+    {
+      "code": "search",
+      "time": "2025-07-09T06:01:40.284Z",
+      "source": "unknown",
+      "place": "::ffff:127.0.0.1"
+    },
+    {
+      "code": "yt",
+      "time": "2025-07-09T06:02:15.082Z",
+      "source": "unknown",
+      "place": "::ffff:127.0.0.1"
+    }
+  ]
+}
