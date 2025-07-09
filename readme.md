@@ -18,12 +18,17 @@ The solution for the problem statement — where the goal was to build a simple 
 ---
 
 
+## 📸 Screenshots
 
+![Postman Screenshot](./screenshot-postman.png)
+![Server Screenshot](./screenshot-server.png)
 
 
 
 
 POST - `http://localhost:3000/shorturls` 
+
+
 
 Send a JSON body like this in Postman:
 
@@ -35,7 +40,3 @@ Send a JSON body like this in Postman:
   "shortcode": "para007"
 }
 
-## 📸 Screenshots
-
-![Postman Screenshot](./screenshot-postman.png)
-![Server Screenshot](./screenshot-server.png)
