@@ -27,6 +27,13 @@
       "created": "2025-07-09T06:01:59.168Z",
       "expiry": "2025-07-09T06:11:59.168Z",
       "total": 1
+    },
+    {
+      "code": "sample",
+      "url": "https://github.com",
+      "created": "2025-07-09T06:35:25.112Z",
+      "expiry": "2025-07-09T06:45:25.101Z",
+      "total": 2
     }
   ],
   "history": [
@@ -63,6 +70,18 @@
     {
       "code": "yt",
       "time": "2025-07-09T06:02:15.082Z",
+      "source": "unknown",
+      "place": "::ffff:127.0.0.1"
+    },
+    {
+      "code": "sample",
+      "time": "2025-07-09T06:35:42.698Z",
+      "source": "unknown",
+      "place": "::ffff:127.0.0.1"
+    },
+    {
+      "code": "sample",
+      "time": "2025-07-09T06:35:48.133Z",
       "source": "unknown",
       "place": "::ffff:127.0.0.1"
     }

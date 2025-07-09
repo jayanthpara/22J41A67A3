@@ -10,3 +10,6 @@ GET /yt → 404 in 1ms
 GET /favicon.ico → 404 in 2ms
 POST /shorturls → 201 in 1ms
 GET /yt → 302 in 1ms
+POST /shorturls → 201 in 24ms
+GET /sample → 302 in 5ms
+GET /sample → 302 in 1ms
