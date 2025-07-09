@@ -3,6 +3,7 @@ const { Low } = require('lowdb');
 const { JSONFile } = require('lowdb/node');
 const path = require('path');
 const logins = require('./logins');
+
 const app = express();
 const PORT = 3000;
 const file = path.join(__dirname, 'storage.json');
@@ -130,3 +131,4 @@ igniteMemory().then(() => {
     console.log(`🔗 LinkMage ready on http://localhost:${PORT}`);
   });
 });
+
