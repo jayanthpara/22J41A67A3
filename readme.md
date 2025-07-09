@@ -1,4 +1,4 @@
-# 🔗 Simple URL Shortener Microservice (Affordmed Backend Test)
+#  Simple URL Shortener Microservice (Affordmed Backend Test)
 
 
 The solution for the problem statement — where the goal was to build a simple microservice that turns long URLs into short ones 
