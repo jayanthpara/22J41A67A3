@@ -6,6 +6,20 @@
       "created": "2025-07-09T06:39:14.862Z",
       "expiry": "2025-07-09T06:49:14.861Z",
       "total": 1
+    },
+    {
+      "code": "fb",
+      "url": "https://facebook.com",
+      "created": "2025-07-09T06:49:38.699Z",
+      "expiry": "2025-07-09T06:59:38.687Z",
+      "total": 1
+    },
+    {
+      "code": "search",
+      "url": "https://google.com",
+      "created": "2025-07-09T06:51:44.550Z",
+      "expiry": "2025-07-09T07:01:44.549Z",
+      "total": 0
     }
   ],
   "history": [
@@ -14,6 +28,12 @@
       "time": "2025-07-09T06:39:22.119Z",
       "source": "unknown",
       "place": "::ffff:127.0.0.1"
+    },
+    {
+      "code": "fb",
+      "time": "2025-07-09T06:49:55.529Z",
+      "source": "unknown",
+      "place": "::1"
     }
   ]
 }

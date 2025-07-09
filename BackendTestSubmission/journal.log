@@ -1,2 +1,5 @@
 POST /shorturls → 201 in 9ms
 GET /submit → 302 in 7ms
+POST /shorturls → 201 in 27ms
+GET /fb → 302 in 12ms
+POST /shorturls → 201 in 8ms
