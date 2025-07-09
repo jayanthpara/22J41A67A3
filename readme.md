@@ -35,6 +35,10 @@ Send a JSON body like this in Postman:
   "shortcode": "para007"
 }
 
-screenshots 
-![postman screenshot](<Screenshot 2025-07-09 122154.png>)
-![sever screenshot](<Screenshot 2025-07-09 122225.png>)
+## 📸 Screenshots
+
+### 📮 Creating short URL in Postman:
+![Postman Screenshot](./screenshot1.png)
+
+### 🖥️ Server shows redirect and logs:
+![Server Screenshot](./screenshot2.png)
