@@ -37,8 +37,6 @@ Send a JSON body like this in Postman:
 
 ## 📸 Screenshots
 
-### 📮 Creating short URL in Postman:
-![Postman Screenshot](./screenshot1.png)
+![Postman Screenshot](./screenshot-postman.png)
+![Server Screenshot](./screenshot-server.png)
 
-### 🖥️ Server shows redirect and logs:
-![Server Screenshot](./screenshot2.png)
